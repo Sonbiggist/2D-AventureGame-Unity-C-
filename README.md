@@ -1,64 +1,19 @@
-# 2D-AventureGame-Unity-C-
-- Hi, I'm XUAN SON  - SON IT = A FRESHER IT
-- 🔭 Passion in something ... (secret😊)
-- 💪 2023 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, watching films, playing game... and blade wind😅
-### :zap: GitHub Stats
+# Welcome to My World! 🌟
 
-<table>
-<tr>
-<table>
-<tr>
-  <table>
-<tr>
- <table>
-<tr>
-  <table>
-<tr>
-  <td width="48%">
-    <img src="https://github.com/Sonbiggist/2D-AventureGame-Unity-C-/assets/111070612/b4e8a4dc-0d6a-4607-bf4a-abfcefa99eb6" alt="Screenshot" />
-    <img src="https://learntocodewith.me/wp-content/uploads/2019/02/Skills-of-Android-Developers-1024x640.png" alt="Android DEV Skills" />
-  </td>
-  <td width="52%">
-    <img alt="gif" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-  </td>
-</tr>
-</table>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=30&center=true&vCenter=true&width=700&height=70&lines=Hello%2C+I'm+Xuân+Sơn!;Welcome+to+my+GitHub!;Let's+create+something+amazing!)
 
+## 👋 Hello, I'm **Xuân Sơn!**
 
-</tr>
-</table>
+![Profile Badge](https://img.shields.io/badge/NEU-Computer_Science-blueviolet?style=for-the-badge&logo=github)
 
-</tr>
-</table>
+I'm currently a **Computer Science** student at the **National Economics University (NEU)**. 
 
-</tr>
-</table>
+🎨 **Passionate** about the intersection of technology and creativity, I enjoy:
+- Exploring new ways to solve problems through code.
+- Developing web applications.
+- Diving into data.
+- Experimenting with game development.
 
-  <td width="52%">
-  </td>
-</tr>
-</table>
+Join me on this exciting journey as I **build, learn, and share** my projects with the world. Let's create something **amazing** together!
 
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
-<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1200px-Android_Studio_Icon_3.6.svg.png" />
-
----
-
-
-
-
-Languages and Tools:
-Android Studio
-Visual Studio Code
-
-Python
-
-
-📫 Contact me via:
-EMAIL: sonkk2000@gmail.com
+![Coder GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
